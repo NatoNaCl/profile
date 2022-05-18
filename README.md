@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nathan</h1>
-<h3 align="center">Software Engineer at 100Devs</h3>
+<h3 align="center">Tech Enthusiast and Gamer</h3>
 <img align="right" width="400" alt="Rubiks Cube" src="https://cdn.dribbble.com/users/962321/screenshots/2752320/media/539d66d8491e519b363ca92ac6e71168.gif">
 
 <h3 align="center">Connect with me:</h3>
